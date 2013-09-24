@@ -1,0 +1,30 @@
+h1 {
+  font-size: 180%;
+  margin-bottom: 14px;
+}
+
+body {
+  padding: 12px;
+}
+
+.lower-margin-box {
+  margin-bottom: 14px;
+}
+
+.start_up-list {
+  margin-bottom: 14px;
+  margin-left: 12px;
+}
+
+dl {
+ width:100%;
+ overflow:hidden;
+}
+dt {
+ float:left;
+ width:10%; /* adjust the width; make sure the total of both is 100% */
+}
+dd {
+ float:left;
+ width:90%; /* adjust the width; make sure the total of both is 100% */
+}
